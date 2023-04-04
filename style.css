@@ -9,9 +9,11 @@ p {
 .first {
   background-color: orangered;
   color: black;
+  font-size: xx-large;
 }
 
 .second {
     background-color: darkgray;
     color: black;
+    font-size: x-large;
 }
