@@ -1,4 +1,17 @@
-.hello {
+body,
+h3,
+p {
+  padding: 0;
+  margin: 0;
+}
+
+
+.first {
+  background-color: orangered;
+  color: black;
+}
+
+.second {
+    background-color: darkgray;
     color: black;
-    background-color: orangered;
 }
