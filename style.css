@@ -5,17 +5,20 @@ p {
   margin: 0;
 }
 
+.main {
+    background-color: beige;
+}
 
 .first {
   background-color: orangered;
   color: black;
   font-size: xx-large;
-  margin-left: 50%;
+  text-align: center;
 }
 
 .second {
     background-color: darkgray;
     color: black;
     font-size: x-large;
-    margin-right: 50%;
+    text-align: center;
 }
