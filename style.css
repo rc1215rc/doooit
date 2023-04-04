@@ -10,10 +10,12 @@ p {
   background-color: orangered;
   color: black;
   font-size: xx-large;
+  margin-left: 50%;
 }
 
 .second {
     background-color: darkgray;
     color: black;
     font-size: x-large;
+    margin-right: 50%;
 }
